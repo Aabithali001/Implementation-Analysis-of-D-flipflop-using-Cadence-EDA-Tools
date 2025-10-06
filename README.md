@@ -1,6 +1,5 @@
 # Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
-# Name : Vignesh E
-# Reg No :212223060298
+
 
 ## Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
